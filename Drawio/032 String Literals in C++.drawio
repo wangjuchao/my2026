@@ -1,0 +1,67 @@
+<mxfile host="65bd71144e">
+    <diagram id="hGawfwvCuDCzmqUIt366" name="Page-1">
+        <mxGraphModel dx="669" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-13" edge="1" parent="1" source="Q73TcZuIrxaXo3P5owOn-1" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Q73TcZuIrxaXo3P5owOn-12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-14" edge="1" parent="1" source="Q73TcZuIrxaXo3P5owOn-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Q73TcZuIrxaXo3P5owOn-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-15" edge="1" parent="1" source="Q73TcZuIrxaXo3P5owOn-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Q73TcZuIrxaXo3P5owOn-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-16" edge="1" parent="1" source="Q73TcZuIrxaXo3P5owOn-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Q73TcZuIrxaXo3P5owOn-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-17" edge="1" parent="1" source="Q73TcZuIrxaXo3P5owOn-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Q73TcZuIrxaXo3P5owOn-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-18" edge="1" parent="1" source="Q73TcZuIrxaXo3P5owOn-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Q73TcZuIrxaXo3P5owOn-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-19" edge="1" parent="1" source="Q73TcZuIrxaXo3P5owOn-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Q73TcZuIrxaXo3P5owOn-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-20" edge="1" parent="1" source="Q73TcZuIrxaXo3P5owOn-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Q73TcZuIrxaXo3P5owOn-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-21" edge="1" parent="1" source="Q73TcZuIrxaXo3P5owOn-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Q73TcZuIrxaXo3P5owOn-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="C++ 中的字符串字面量" vertex="1">
+                    <mxGeometry height="60" width="160" x="40" y="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;strong&gt;只读数据段&lt;/strong&gt;(常量区)" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;不能修改&#xa;&#xa;" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;br&gt;转义字符" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;相邻字面量自动拼接&#xa;&#xa;" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;br&gt;原始字符串字面量&lt;br&gt;不用转义,适合路径、正则、JSON" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;字符编码前缀&#xa;&#xa;" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="500" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;标准库字面量后缀(C++14 / C++17)&#xa;&#xa;" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="600" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;br&gt;&lt;strong&gt;比较用==比的是指针&lt;/strong&gt;,不是内容&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="700" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q73TcZuIrxaXo3P5owOn-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;br&gt;字符串字面量是只读、静态存储、以&#39;\0&#39;结尾的 const char数组;想可修改用数组或 std::string,想不拷贝只读用std::string_view&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="100" width="150" x="45" y="410" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

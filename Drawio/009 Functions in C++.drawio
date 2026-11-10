@@ -1,0 +1,66 @@
+<mxfile host="65bd71144e">
+    <diagram id="_yIeEGvOYL6W6MPx1EJE" name="Page-1">
+        <mxGraphModel dx="1471" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="uyDjGQxl9gExsXI2Z1uc-5" edge="1" parent="1" source="uyDjGQxl9gExsXI2Z1uc-1" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="uyDjGQxl9gExsXI2Z1uc-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="uyDjGQxl9gExsXI2Z1uc-8" edge="1" parent="1" source="uyDjGQxl9gExsXI2Z1uc-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="uyDjGQxl9gExsXI2Z1uc-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="uyDjGQxl9gExsXI2Z1uc-14" edge="1" parent="1" source="uyDjGQxl9gExsXI2Z1uc-1" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="uyDjGQxl9gExsXI2Z1uc-13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="uyDjGQxl9gExsXI2Z1uc-15" connectable="0" parent="uyDjGQxl9gExsXI2Z1uc-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="组成" vertex="1">
+                    <mxGeometry relative="1" x="0.3833" y="2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="uyDjGQxl9gExsXI2Z1uc-18" edge="1" parent="1" source="uyDjGQxl9gExsXI2Z1uc-1" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="uyDjGQxl9gExsXI2Z1uc-16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="uyDjGQxl9gExsXI2Z1uc-19" edge="1" parent="1" source="uyDjGQxl9gExsXI2Z1uc-1" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="uyDjGQxl9gExsXI2Z1uc-17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="uyDjGQxl9gExsXI2Z1uc-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="一系列函数(代码块)" vertex="1">
+                    <mxGeometry height="60" width="120" x="70" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="uyDjGQxl9gExsXI2Z1uc-4" edge="1" parent="1" source="uyDjGQxl9gExsXI2Z1uc-2" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="uyDjGQxl9gExsXI2Z1uc-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="uyDjGQxl9gExsXI2Z1uc-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="输入(输入)" vertex="1">
+                    <mxGeometry height="60" width="120" x="180" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="uyDjGQxl9gExsXI2Z1uc-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="输出(返回)" vertex="1">
+                    <mxGeometry height="60" width="120" x="180" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="uyDjGQxl9gExsXI2Z1uc-10" edge="1" parent="1" source="uyDjGQxl9gExsXI2Z1uc-6" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="uyDjGQxl9gExsXI2Z1uc-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="uyDjGQxl9gExsXI2Z1uc-12" edge="1" parent="1" source="uyDjGQxl9gExsXI2Z1uc-6" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="uyDjGQxl9gExsXI2Z1uc-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="uyDjGQxl9gExsXI2Z1uc-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="函数不是越多越好" vertex="1">
+                    <mxGeometry height="60" width="120" x="365" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="uyDjGQxl9gExsXI2Z1uc-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="函数会入栈出栈，占用资源开销" vertex="1">
+                    <mxGeometry height="60" width="120" x="540" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="uyDjGQxl9gExsXI2Z1uc-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="函数指令在内存中跳转，减慢程序运行速度" vertex="1">
+                    <mxGeometry height="60" width="120" x="540" y="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="uyDjGQxl9gExsXI2Z1uc-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="程序" vertex="1">
+                    <mxGeometry height="60" width="120" x="70" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="uyDjGQxl9gExsXI2Z1uc-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="声明 .h" vertex="1">
+                    <mxGeometry height="60" width="120" x="-100" y="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="uyDjGQxl9gExsXI2Z1uc-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="定义 .cpp" vertex="1">
+                    <mxGeometry height="60" width="120" x="-100" y="400" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

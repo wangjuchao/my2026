@@ -1,0 +1,105 @@
+<mxfile host="65bd71144e">
+    <diagram id="AI0sEBhZtPVTXS77Dvvz" name="Page-1">
+        <mxGraphModel dx="743" dy="1719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-4" edge="1" parent="1" source="b5moVOM9FcjXL16x0G9I-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b5moVOM9FcjXL16x0G9I-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-5" edge="1" parent="1" source="b5moVOM9FcjXL16x0G9I-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b5moVOM9FcjXL16x0G9I-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Static" vertex="1">
+                    <mxGeometry height="30" width="60" y="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-9" edge="1" parent="1" source="b5moVOM9FcjXL16x0G9I-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b5moVOM9FcjXL16x0G9I-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-10" edge="1" parent="1" source="b5moVOM9FcjXL16x0G9I-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b5moVOM9FcjXL16x0G9I-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-11" edge="1" parent="1" source="b5moVOM9FcjXL16x0G9I-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b5moVOM9FcjXL16x0G9I-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="类" vertex="1">
+                    <mxGeometry height="60" width="120" x="120" y="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="结构体" vertex="1">
+                    <mxGeometry height="60" width="120" x="120" y="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-15" edge="1" parent="1" source="b5moVOM9FcjXL16x0G9I-6" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="b5moVOM9FcjXL16x0G9I-14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="类实例1" vertex="1">
+                    <mxGeometry height="60" width="120" x="300" y="-150" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-18" edge="1" parent="1" source="b5moVOM9FcjXL16x0G9I-7" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b5moVOM9FcjXL16x0G9I-14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;类实例2&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="300" y="-60" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-17" edge="1" parent="1" source="b5moVOM9FcjXL16x0G9I-8" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="b5moVOM9FcjXL16x0G9I-14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;类实例N&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="300" y="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-13" edge="1" parent="1" source="b5moVOM9FcjXL16x0G9I-8" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="310" y="50" as="sourcePoint"/>
+                        <mxPoint x="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-20" edge="1" parent="1" source="b5moVOM9FcjXL16x0G9I-14" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b5moVOM9FcjXL16x0G9I-19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-26" edge="1" parent="1" source="b5moVOM9FcjXL16x0G9I-14" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="b5moVOM9FcjXL16x0G9I-25">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="共享同一个Static变量实例(静态方法)" vertex="1">
+                    <mxGeometry height="60" width="120" x="510" y="-60" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-22" edge="1" parent="1" source="b5moVOM9FcjXL16x0G9I-19" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b5moVOM9FcjXL16x0G9I-21">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="如果有一个类实例改变了该static变量，那所有类实例统一变化" vertex="1">
+                    <mxGeometry height="60" width="120" x="680" y="-60" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-24" edge="1" parent="1" source="b5moVOM9FcjXL16x0G9I-21" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="b5moVOM9FcjXL16x0G9I-23">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="那么类实例引用变量没有意义" vertex="1">
+                    <mxGeometry height="60" width="120" x="850" y="-60" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Class::x" vertex="1">
+                    <mxGeometry height="60" width="120" x="850" y="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="所有类实例共享信息，比全局变量或全局函数方式更好" vertex="1">
+                    <mxGeometry height="60" width="120" x="510" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-29" edge="1" parent="1" source="b5moVOM9FcjXL16x0G9I-27" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b5moVOM9FcjXL16x0G9I-28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-30" connectable="0" parent="b5moVOM9FcjXL16x0G9I-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="才能访问与操作" vertex="1">
+                    <mxGeometry relative="1" x="-0.075" y="-1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="静态方法" vertex="1">
+                    <mxGeometry height="60" width="120" x="120" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="静态成员变量(静态数据)" vertex="1">
+                    <mxGeometry height="60" width="120" x="380" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="b5moVOM9FcjXL16x0G9I-31" edge="1" parent="1" source="b5moVOM9FcjXL16x0G9I-3" style="endArrow=classic;startArrow=classic;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="130" y="130" as="sourcePoint"/>
+                        <mxPoint x="180" y="80" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

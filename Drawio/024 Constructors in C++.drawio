@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram id="ZCxXmGRSZ9Wq2PFq7jGd" name="Page-1">
+        <mxGraphModel dx="599" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="zqdpDx92LrWQXVxPg9TJ-3" edge="1" parent="1" source="zqdpDx92LrWQXVxPg9TJ-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zqdpDx92LrWQXVxPg9TJ-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="zqdpDx92LrWQXVxPg9TJ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="C++ 中的构造函数" vertex="1">
+                    <mxGeometry height="60" width="120" x="20" y="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="zqdpDx92LrWQXVxPg9TJ-5" edge="1" parent="1" source="zqdpDx92LrWQXVxPg9TJ-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zqdpDx92LrWQXVxPg9TJ-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="zqdpDx92LrWQXVxPg9TJ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="一种特殊类型的方法" vertex="1">
+                    <mxGeometry height="60" width="120" x="190" y="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="zqdpDx92LrWQXVxPg9TJ-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="创建实例时运行、用于构造(新建)实例时进行初始化工作" vertex="1">
+                    <mxGeometry height="60" width="120" x="350" y="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="zqdpDx92LrWQXVxPg9TJ-10" edge="1" parent="1" source="zqdpDx92LrWQXVxPg9TJ-6" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zqdpDx92LrWQXVxPg9TJ-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="zqdpDx92LrWQXVxPg9TJ-11" edge="1" parent="1" source="zqdpDx92LrWQXVxPg9TJ-6" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zqdpDx92LrWQXVxPg9TJ-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="zqdpDx92LrWQXVxPg9TJ-12" edge="1" parent="1" source="zqdpDx92LrWQXVxPg9TJ-6" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zqdpDx92LrWQXVxPg9TJ-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="zqdpDx92LrWQXVxPg9TJ-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="默认构造函数" vertex="1">
+                    <mxGeometry height="60" width="120" x="20" y="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="zqdpDx92LrWQXVxPg9TJ-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="删除默认的构造函数&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;class Log{&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;public:&lt;/div&gt;&lt;div&gt;Log() = delecte;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="90" width="130" x="200" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="zqdpDx92LrWQXVxPg9TJ-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="复制构造函数" vertex="1">
+                    <mxGeometry height="60" width="120" x="200" y="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="zqdpDx92LrWQXVxPg9TJ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="移动构造函数" vertex="1">
+                    <mxGeometry height="60" width="120" x="200" y="340" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

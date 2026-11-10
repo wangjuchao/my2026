@@ -1,0 +1,49 @@
+<mxfile host="65bd71144e">
+    <diagram id="nJMVJJXnEqHtgThCdjwz" name="Page-1">
+        <mxGraphModel dx="510" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="gwZAi1wLoIXxjbolADmg-11" edge="1" parent="1" source="gwZAi1wLoIXxjbolADmg-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gwZAi1wLoIXxjbolADmg-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="gwZAi1wLoIXxjbolADmg-12" edge="1" parent="1" source="gwZAi1wLoIXxjbolADmg-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gwZAi1wLoIXxjbolADmg-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="gwZAi1wLoIXxjbolADmg-13" edge="1" parent="1" source="gwZAi1wLoIXxjbolADmg-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gwZAi1wLoIXxjbolADmg-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="gwZAi1wLoIXxjbolADmg-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="continue&lt;div&gt;break&lt;/div&gt;&lt;div&gt;return&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="30" y="215" as="geometry"/>
+                </mxCell>
+                <mxCell id="gwZAi1wLoIXxjbolADmg-14" edge="1" parent="1" source="gwZAi1wLoIXxjbolADmg-4" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gwZAi1wLoIXxjbolADmg-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="gwZAi1wLoIXxjbolADmg-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;continue:循环内部使用、&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="220" y="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="gwZAi1wLoIXxjbolADmg-15" edge="1" parent="1" source="gwZAi1wLoIXxjbolADmg-5" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="gwZAi1wLoIXxjbolADmg-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="gwZAi1wLoIXxjbolADmg-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="break:主要用于循环与switch" vertex="1">
+                    <mxGeometry height="60" width="120" x="220" y="215" as="geometry"/>
+                </mxCell>
+                <mxCell id="gwZAi1wLoIXxjbolADmg-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="return:退出函数" vertex="1">
+                    <mxGeometry height="60" width="120" x="220" y="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="gwZAi1wLoIXxjbolADmg-8" edge="1" parent="1" source="gwZAi1wLoIXxjbolADmg-7" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gwZAi1wLoIXxjbolADmg-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="gwZAi1wLoIXxjbolADmg-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="控件流语句" vertex="1">
+                    <mxGeometry height="30" width="100" x="40" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="gwZAi1wLoIXxjbolADmg-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="如果有循环则进入下一次迭代，否则循环结束" vertex="1">
+                    <mxGeometry height="60" width="120" x="400" y="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="gwZAi1wLoIXxjbolADmg-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="跳出循环、结束循环" vertex="1">
+                    <mxGeometry height="60" width="120" x="400" y="215" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

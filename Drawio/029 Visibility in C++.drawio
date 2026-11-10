@@ -1,0 +1,43 @@
+<mxfile host="65bd71144e">
+    <diagram id="p_TFK959XDEFbbFxPDkh" name="Page-1">
+        <mxGraphModel dx="911" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="F-4SFlKqKUdYPjeNov1K-5" edge="1" parent="1" source="F-4SFlKqKUdYPjeNov1K-1" style="edgeStyle=none;html=1;" target="F-4SFlKqKUdYPjeNov1K-2" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="F-4SFlKqKUdYPjeNov1K-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="C++ 中的可见性(访问权限)" vertex="1">
+                    <mxGeometry height="60" width="160" x="20" y="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="F-4SFlKqKUdYPjeNov1K-6" edge="1" parent="1" source="F-4SFlKqKUdYPjeNov1K-2" style="edgeStyle=none;html=1;" target="F-4SFlKqKUdYPjeNov1K-3" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="F-4SFlKqKUdYPjeNov1K-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="类成员&lt;div&gt;类方法&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="40" y="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="F-4SFlKqKUdYPjeNov1K-7" edge="1" parent="1" source="F-4SFlKqKUdYPjeNov1K-3" style="edgeStyle=none;html=1;" target="F-4SFlKqKUdYPjeNov1K-4" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="F-4SFlKqKUdYPjeNov1K-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="修饰符" vertex="1">
+                    <mxGeometry height="60" width="120" x="210" y="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="F-4SFlKqKUdYPjeNov1K-9" edge="1" parent="1" source="F-4SFlKqKUdYPjeNov1K-4" style="edgeStyle=none;html=1;" target="F-4SFlKqKUdYPjeNov1K-8" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="F-4SFlKqKUdYPjeNov1K-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="private:只有&lt;strong&gt;这个类自己的成员函数&lt;/strong&gt;(以及它的友元)可以访问&lt;div&gt;protected:&lt;strong style=&quot;background-color: transparent;&quot;&gt;这个类自己的成员函数&lt;/strong&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;、&lt;/span&gt;&lt;strong style=&quot;background-color: transparent;&quot;&gt;派生类的成员函数&lt;/strong&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;(以及友元)可以访问&lt;/span&gt;&lt;/div&gt;&lt;div&gt;public:任何地方都可以访问&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="70" width="410" x="390" y="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="F-4SFlKqKUdYPjeNov1K-11" edge="1" parent="1" source="F-4SFlKqKUdYPjeNov1K-8" style="edgeStyle=none;html=1;" target="F-4SFlKqKUdYPjeNov1K-10" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="F-4SFlKqKUdYPjeNov1K-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="友元" vertex="1">
+                    <mxGeometry height="60" width="120" x="390" y="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="F-4SFlKqKUdYPjeNov1K-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="可以访问类的私有成员" vertex="1">
+                    <mxGeometry height="60" width="140" x="590" y="310" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

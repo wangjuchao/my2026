@@ -1,0 +1,100 @@
+<mxfile host="65bd71144e">
+    <diagram id="hGawfwvCuDCzmqUIt366" name="Page-1">
+        <mxGraphModel dx="909" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-24" edge="1" parent="1" source="2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PQhnPlk2Px6ztPJdraVI-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-25" edge="1" parent="1" source="2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PQhnPlk2Px6ztPJdraVI-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-26" edge="1" parent="1" source="2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PQhnPlk2Px6ztPJdraVI-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-27" edge="1" parent="1" source="2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PQhnPlk2Px6ztPJdraVI-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-28" edge="1" parent="1" source="2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PQhnPlk2Px6ztPJdraVI-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-29" edge="1" parent="1" source="2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PQhnPlk2Px6ztPJdraVI-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-30" edge="1" parent="1" source="2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PQhnPlk2Px6ztPJdraVI-13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-31" edge="1" parent="1" source="2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PQhnPlk2Px6ztPJdraVI-15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-32" edge="1" parent="1" source="2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PQhnPlk2Px6ztPJdraVI-17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="CONST in C++" vertex="1">
+                    <mxGeometry height="60" width="150" x="10" y="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="const表示&quot;这个东西不应该被修改&quot;,由编译器在编译期检查&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="600" x="20" y="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;1. const 变量&#xa;&#xa;" vertex="1">
+                    <mxGeometry height="60" width="120" x="240" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;br&gt;2. const 与指针&lt;br&gt;&lt;div&gt;读法:&lt;strong&gt;从右往左读&lt;/strong&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="240" y="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-20" edge="1" parent="1" source="PQhnPlk2Px6ztPJdraVI-5" style="edgeStyle=none;html=1;" target="PQhnPlk2Px6ztPJdraVI-10" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;3. const 引用(函数参数最常用)&#xa;&#xa;" vertex="1">
+                    <mxGeometry height="60" width="120" x="240" y="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-21" edge="1" parent="1" source="PQhnPlk2Px6ztPJdraVI-6" style="edgeStyle=none;html=1;" target="PQhnPlk2Px6ztPJdraVI-8" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;4. const 成员函数&#xa;&#xa;" vertex="1">
+                    <mxGeometry height="60" width="120" x="240" y="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-22" edge="1" parent="1" source="PQhnPlk2Px6ztPJdraVI-7" style="edgeStyle=none;html=1;" target="PQhnPlk2Px6ztPJdraVI-9" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;5. mutable&#xa;&#xa;" vertex="1">
+                    <mxGeometry height="60" width="120" x="240" y="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;br&gt;凡是不修改对象状态的成员函数都加const" vertex="1">
+                    <mxGeometry height="60" width="120" x="430" y="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;在 const 成员函数里也允许修改的成员,常用于缓存、互斥锁&#xa;&#xa;" vertex="1">
+                    <mxGeometry height="60" width="120" x="430" y="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;避免大对象拷贝,又保证函数不改参数&#xa;&#xa;" vertex="1">
+                    <mxGeometry height="60" width="120" x="430" y="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;6. 函数返回值与参数&#xa;&#xa;" vertex="1">
+                    <mxGeometry height="60" width="120" x="240" y="570" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-23" edge="1" parent="1" source="PQhnPlk2Px6ztPJdraVI-13" style="edgeStyle=none;html=1;" target="PQhnPlk2Px6ztPJdraVI-14" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;7. const_cast&#xa;&#xa;" vertex="1">
+                    <mxGeometry height="60" width="120" x="240" y="670" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;br&gt;只有在&lt;strong&gt;对象本来不是 const&lt;/strong&gt;、只是被 const 指针或引用指向时,const_cast去掉 const 再修改才是安全的。尽量不用&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="70" width="165" x="430" y="660" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;8. const 与 constexpr&#xa;&#xa;" vertex="1">
+                    <mxGeometry height="60" width="120" x="240" y="770" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;9. 类里的 const 与 static&#xa;&#xa;" vertex="1">
+                    <mxGeometry height="60" width="120" x="240" y="860" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;br&gt;const是写给编译器和读代码的人看的承诺。参数用 const&amp;amp;、不改对象的成员函数加 const、指针按&quot;从右往左&quot;读&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="40" width="600" x="40" y="960" as="geometry"/>
+                </mxCell>
+                <mxCell id="PQhnPlk2Px6ztPJdraVI-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="习惯上&lt;strong&gt;能加 const 就加&lt;/strong&gt;,这叫 const 正确性(const correctness),能让很多错误在编译期暴露" vertex="1">
+                    <mxGeometry height="40" width="610" x="40" y="1030" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

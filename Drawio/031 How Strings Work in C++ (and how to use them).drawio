@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="GwqgQ4cO86-fs8PdiiwR" name="Page-1">
+        <mxGraphModel dx="911" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="sz5mB38wigx2QfFnXPlD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="C++ 中字符串的工作原理(及用法)" vertex="1">
+                    <mxGeometry height="60" width="120" x="40" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="sz5mB38wigx2QfFnXPlD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="字符集" vertex="1">
+                    <mxGeometry height="60" width="120" x="40" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="sz5mB38wigx2QfFnXPlD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="ASSCII" vertex="1">
+                    <mxGeometry height="60" width="120" x="40" y="125" as="geometry"/>
+                </mxCell>
+                <mxCell id="sz5mB38wigx2QfFnXPlD-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="终止符\n" vertex="1">
+                    <mxGeometry height="60" width="120" x="210" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="sz5mB38wigx2QfFnXPlD-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="#include&amp;lt;string&amp;gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="420" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="sz5mB38wigx2QfFnXPlD-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="strlen()&lt;div&gt;strcpy()&lt;/div&gt;&lt;div&gt;find()&lt;/div&gt;&lt;div&gt;......&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="590" y="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

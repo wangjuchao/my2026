@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram id="rNEXyxLGMdSptTi51oQs" name="Page-1">
+        <mxGraphModel dx="708" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="t1YHr0WVoyNvuJIs-glI-5" edge="1" parent="1" source="t1YHr0WVoyNvuJIs-glI-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="t1YHr0WVoyNvuJIs-glI-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="t1YHr0WVoyNvuJIs-glI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="C++ 中的析构函数" vertex="1">
+                    <mxGeometry height="60" width="120" x="20" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="t1YHr0WVoyNvuJIs-glI-7" edge="1" parent="1" source="t1YHr0WVoyNvuJIs-glI-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="t1YHr0WVoyNvuJIs-glI-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="t1YHr0WVoyNvuJIs-glI-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="销毁对象时运行" vertex="1">
+                    <mxGeometry height="60" width="120" x="370" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="t1YHr0WVoyNvuJIs-glI-9" edge="1" parent="1" source="t1YHr0WVoyNvuJIs-glI-3" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="t1YHr0WVoyNvuJIs-glI-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="t1YHr0WVoyNvuJIs-glI-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="撤销操作、清理内存" vertex="1">
+                    <mxGeometry height="60" width="120" x="540" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="t1YHr0WVoyNvuJIs-glI-6" edge="1" parent="1" source="t1YHr0WVoyNvuJIs-glI-4" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="t1YHr0WVoyNvuJIs-glI-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="t1YHr0WVoyNvuJIs-glI-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="一个特殊函数或方法" vertex="1">
+                    <mxGeometry height="60" width="120" x="195" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="t1YHr0WVoyNvuJIs-glI-11" edge="1" parent="1" source="t1YHr0WVoyNvuJIs-glI-8" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="t1YHr0WVoyNvuJIs-glI-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="t1YHr0WVoyNvuJIs-glI-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="防止内存泄漏" vertex="1">
+                    <mxGeometry height="60" width="120" x="540" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="t1YHr0WVoyNvuJIs-glI-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="析构函数被调用时实例已经不存在" vertex="1">
+                    <mxGeometry height="60" width="120" x="370" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="t1YHr0WVoyNvuJIs-glI-12" parent="1" style="shape=wedgeCallout;whiteSpace=wrap;html=1;tipX=-0.083;tipY=-0.875;" value="&lt;strong&gt;内存泄漏的本质&lt;/strong&gt;:动态分配(new、malloc)的内存,在不再需要之后没有被释放,而且程序已经失去了指向它的指针,再也没法释放。" vertex="1">
+                    <mxGeometry height="120" width="140" x="550" y="270" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

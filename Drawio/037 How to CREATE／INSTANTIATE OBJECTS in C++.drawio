@@ -1,0 +1,52 @@
+<mxfile host="65bd71144e">
+    <diagram id="hGawfwvCuDCzmqUIt366" name="Page-1">
+        <mxGraphModel dx="1061" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="How to CREATE/INSTANTIATE OBJECTS in C++&lt;div&gt;如何在 C++ 中创建/实例化对象&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="700" x="30" y="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="RQzsm2UQUr_efj-qOXCu-4" edge="1" parent="1" source="RQzsm2UQUr_efj-qOXCu-2" style="edgeStyle=none;html=1;" target="RQzsm2UQUr_efj-qOXCu-3" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="RQzsm2UQUr_efj-qOXCu-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="类" vertex="1">
+                    <mxGeometry height="60" width="120" x="30" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="RQzsm2UQUr_efj-qOXCu-7" edge="1" parent="1" source="RQzsm2UQUr_efj-qOXCu-3" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RQzsm2UQUr_efj-qOXCu-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="RQzsm2UQUr_efj-qOXCu-8" edge="1" parent="1" source="RQzsm2UQUr_efj-qOXCu-3" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.576;entryY=0.051;entryDx=0;entryDy=0;" target="RQzsm2UQUr_efj-qOXCu-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="RQzsm2UQUr_efj-qOXCu-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="占用内存存储" vertex="1">
+                    <mxGeometry height="60" width="120" x="230" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="RQzsm2UQUr_efj-qOXCu-14" edge="1" parent="1" source="RQzsm2UQUr_efj-qOXCu-5" style="edgeStyle=none;html=1;" target="RQzsm2UQUr_efj-qOXCu-12" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="RQzsm2UQUr_efj-qOXCu-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="栈" vertex="1">
+                    <mxGeometry height="60" width="120" x="150" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="RQzsm2UQUr_efj-qOXCu-15" edge="1" parent="1" source="RQzsm2UQUr_efj-qOXCu-6" style="edgeStyle=none;html=1;" target="RQzsm2UQUr_efj-qOXCu-13" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="RQzsm2UQUr_efj-qOXCu-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="堆" vertex="1">
+                    <mxGeometry height="60" width="120" x="350" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="RQzsm2UQUr_efj-qOXCu-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="静态区" vertex="1">
+                    <mxGeometry height="60" width="120" x="520" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="RQzsm2UQUr_efj-qOXCu-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="代码区" vertex="1">
+                    <mxGeometry height="60" width="120" x="690" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="RQzsm2UQUr_efj-qOXCu-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="有生命周期&lt;div&gt;作用域&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="150" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="RQzsm2UQUr_efj-qOXCu-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="一直存在&lt;div&gt;需要手动释放&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="351" y="420" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

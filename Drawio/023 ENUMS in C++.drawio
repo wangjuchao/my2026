@@ -1,0 +1,30 @@
+<mxfile host="65bd71144e">
+    <diagram id="16Y_KkUCb6dOJmoxbjYT" name="Page-1">
+        <mxGraphModel dx="724" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="d624qYJ_ZcUh57_u98zb-3" edge="1" parent="1" source="d624qYJ_ZcUh57_u98zb-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="d624qYJ_ZcUh57_u98zb-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="d624qYJ_ZcUh57_u98zb-4" connectable="0" parent="d624qYJ_ZcUh57_u98zb-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="命名" vertex="1">
+                    <mxGeometry relative="1" x="-0.1455" y="-2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="d624qYJ_ZcUh57_u98zb-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="enum" vertex="1">
+                    <mxGeometry height="60" width="120" x="40" y="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="d624qYJ_ZcUh57_u98zb-7" edge="1" parent="1" source="d624qYJ_ZcUh57_u98zb-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="d624qYJ_ZcUh57_u98zb-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="d624qYJ_ZcUh57_u98zb-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="一组数据值" vertex="1">
+                    <mxGeometry height="60" width="120" x="250" y="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="d624qYJ_ZcUh57_u98zb-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="本质是整数" vertex="1">
+                    <mxGeometry height="30" width="80" x="420" y="115" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

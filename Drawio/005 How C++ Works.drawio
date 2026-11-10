@@ -1,0 +1,124 @@
+<mxfile host="65bd71144e">
+    <diagram id="cjIHTiAdN_gvPvcWuf2l" name="Page-1">
+        <mxGraphModel dx="1520" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="操作符 =&amp;nbsp;成员函数" vertex="1">
+                    <mxGeometry height="30" width="120" x="40" y="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="#include&amp;lt;xxxx.h&amp;gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="40" y="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-10" edge="1" parent="1" source="h2RiOatc7xM9lCjTBiGr-2" style="endArrow=classic;html=1;" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="160" y="100" as="sourcePoint"/>
+                        <mxPoint x="260" y="100" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-11" connectable="0" parent="h2RiOatc7xM9lCjTBiGr-10" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="编译前" vertex="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="预处理命令" vertex="1">
+                    <mxGeometry height="30" width="80" x="260" y="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cpp源文件" vertex="1">
+                    <mxGeometry height="60" width="120" x="40" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-15" edge="1" parent="1" style="shape=link;html=1;" value="">
+                    <mxGeometry relative="1" width="100" as="geometry">
+                        <mxPoint x="170" y="190" as="sourcePoint"/>
+                        <mxPoint x="270" y="190" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="可执行程序(库)" vertex="1">
+                    <mxGeometry height="60" width="120" x="290" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-17" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="140" y="260" as="sourcePoint"/>
+                        <mxPoint x="190" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="1预处理" vertex="1">
+                    <mxGeometry height="30" width="70" x="105" y="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-19" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="210" y="280" as="sourcePoint"/>
+                        <mxPoint x="210" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="2编译器编译" vertex="1">
+                    <mxGeometry height="30" width="90" x="170" y="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-21" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="210" y="350" as="sourcePoint"/>
+                        <mxPoint x="210" y="310" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="机器码" vertex="1">
+                    <mxGeometry height="30" width="60" x="185" y="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-24" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="280" y="270" as="sourcePoint"/>
+                        <mxPoint x="240" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="3链接" vertex="1">
+                    <mxGeometry height="30" width="50" x="265" y="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="cpp源文件" vertex="1">
+                    <mxGeometry height="30" width="80" x="10" y="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-27" edge="1" parent="1" style="endArrow=classic;html=1;" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="85" y="414.5" as="sourcePoint"/>
+                        <mxPoint x="185" y="414.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-28" connectable="0" parent="h2RiOatc7xM9lCjTBiGr-27" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="编译" vertex="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="object" vertex="1">
+                    <mxGeometry height="30" width="60" x="175" y="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-30" edge="1" parent="1" source="h2RiOatc7xM9lCjTBiGr-29" style="endArrow=classic;html=1;" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="235" y="415" as="sourcePoint"/>
+                        <mxPoint x="335" y="415" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value=".obj" vertex="1">
+                    <mxGeometry height="30" width="40" x="330" y="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-33" edge="1" parent="1" style="endArrow=classic;html=1;" target="h2RiOatc7xM9lCjTBiGr-35" value="l">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="370" y="414.5" as="sourcePoint"/>
+                        <mxPoint x="470" y="414.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-34" connectable="0" parent="h2RiOatc7xM9lCjTBiGr-33" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="linker" vertex="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="exe" vertex="1">
+                    <mxGeometry height="30" width="40" x="450" y="399.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-37" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=27;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="Win编译" vertex="1">
+                    <mxGeometry height="40" width="160" x="-3" y="367" as="geometry"/>
+                </mxCell>
+                <mxCell id="h2RiOatc7xM9lCjTBiGr-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="注:&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;只有cpp文件会被编译，头文件(header)文件不会被编译&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="30" width="330" x="25" y="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="7akASeO7lbAQVhv9XkNQ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value=".h头文件-声明-告诉编译器有这个函数体" vertex="1">
+                    <mxGeometry height="30" width="230" x="25" y="510" as="geometry"/>
+                </mxCell>
+                <mxCell id="7akASeO7lbAQVhv9XkNQ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value=".cpp&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;源文件-定义(函数主体&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;)&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="30" width="170" x="25" y="535" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
